@@ -1,5 +1,8 @@
-title: "Patrick Ho"
-Sr. Software Engineering Manager
+title: Patrick Ho
+email: peiqistar@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Sr. Software Engineering Manager.
+  The Art of software engineering.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
