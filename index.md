@@ -5,7 +5,7 @@ Have a **Good** test. And _TryItalic_ test
 Click to [Baidu](http://www.baidu.com/)
 
 ### Test Header 3
-![Image](https://drive.google.com/file/d/0B3DyjQOgJVxVRjMzS0pUSzdxWU0/view?usp=sharing)
+![My Picture 1](https://drive.google.com/file/d/0B3DyjQOgJVxVRjMzS0pUSzdxWU0/view)
 
 ### Support or Contact
 Send email to: <peiqistar@gmail.com>
